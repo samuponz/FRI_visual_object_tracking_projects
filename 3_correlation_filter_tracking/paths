@@ -1,0 +1,7 @@
+python3 evaluate_tracker.py --workspace_path "/media/samuponz/03DD6CF02B183CCE/FRI - Ljubljana/ATCV - Advanced Topics in Computer Vision/Projects/workspace-dir/" --tracker dcf_tracker
+
+python3 visualize_result.py --workspace_path "/media/samuponz/03DD6CF02B183CCE/FRI - Ljubljana/ATCV - Advanced Topics in Computer Vision/Projects/workspace-dir/" --tracker dcf_tracker --sequence ball
+
+python3 compare_trackers.py --workspace_path "/media/samuponz/03DD6CF02B183CCE/FRI - Ljubljana/ATCV - Advanced Topics in Computer Vision/Projects/workspace-dir/" --trackers dcf_tracker --sensitivity 100
+
+python3 compare_trackers.py --workspace_path "/media/samuponz/03DD6CF02B183CCE/FRI - Ljubljana/ATCV - Advanced Topics in Computer Vision/Projects/workspace-dir/" --trackers dcf_tracker tracker-id2 --sensitivity 100
