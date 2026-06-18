@@ -1,4 +1,4 @@
-# Visual Object Tracking (VOT) Portfolio: A Progressive Framework
+# Visual Object Tracking Projects - FRI 2022
 
 This repository contains a comprehensive portfolio of 5 Computer Vision projects. The entire codebase is structured as a step-by-step methodological journey, tracing the historical and technological evolution of Visual Object Tracking—from pixel-level intensity variations to modern long-term deep learning systems.
 
